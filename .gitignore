@@ -3,5 +3,7 @@ cmake-build-debug
 .idea
 *.py
 *.bash
-venv
 *.cpp
+*.txt
+venv
+.vscode
