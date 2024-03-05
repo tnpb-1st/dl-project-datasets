@@ -1,0 +1,7 @@
+test
+cmake-build-debug
+.idea
+*.py
+*.bash
+venv
+*.cpp
